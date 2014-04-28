@@ -1,0 +1,147 @@
+[15-Apr-2014 05:38:59] PHP Fatal error:  Access to undeclared static property: UAC::$filename in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 24
+[15-Apr-2014 05:39:18] PHP Fatal error:  Access to undeclared static property: UAC::$filename in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 30
+[15-Apr-2014 05:45:55] PHP Fatal error:  Access to undeclared static property: UAC::$filename in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 60
+[15-Apr-2014 05:46:14] PHP Fatal error:  Access to undeclared static property: UAC::$filename in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 60
+[15-Apr-2014 05:46:16] PHP Fatal error:  Access to undeclared static property: UAC::$filename in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 60
+[15-Apr-2014 05:46:17] PHP Fatal error:  Access to undeclared static property: UAC::$filename in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 60
+[15-Apr-2014 05:46:17] PHP Fatal error:  Access to undeclared static property: UAC::$filename in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 60
+[16-Apr-2014 01:08:29] PHP Notice:  Undefined variable: ret in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 40
+[16-Apr-2014 01:08:29] PHP Notice:  Undefined variable: ret in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 41
+[16-Apr-2014 01:08:29] PHP Notice:  Undefined variable: ret in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 40
+[16-Apr-2014 01:08:29] PHP Notice:  Undefined variable: ret in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 41
+[16-Apr-2014 01:08:29] PHP Notice:  Undefined variable: ret in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 40
+[16-Apr-2014 01:08:29] PHP Notice:  Undefined variable: ret in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 41
+[16-Apr-2014 01:08:29] PHP Notice:  Undefined variable: ret in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 40
+[16-Apr-2014 01:08:29] PHP Notice:  Undefined variable: ret in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 41
+[16-Apr-2014 01:08:29] PHP Notice:  Undefined variable: ret in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 40
+[16-Apr-2014 01:08:29] PHP Notice:  Undefined variable: ret in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 41
+[16-Apr-2014 01:08:29] PHP Notice:  Undefined variable: ret in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 40
+[16-Apr-2014 01:08:29] PHP Notice:  Undefined variable: ret in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 41
+[16-Apr-2014 01:08:29] PHP Notice:  Undefined variable: ret in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 40
+[16-Apr-2014 01:08:29] PHP Notice:  Undefined variable: ret in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 41
+[16-Apr-2014 01:08:43] PHP Notice:  Undefined variable: ret in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 41
+[16-Apr-2014 01:08:43] PHP Notice:  Undefined variable: ret in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 41
+[16-Apr-2014 01:08:43] PHP Notice:  Undefined variable: ret in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 41
+[16-Apr-2014 01:08:43] PHP Notice:  Undefined variable: ret in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 41
+[16-Apr-2014 01:08:43] PHP Notice:  Undefined variable: ret in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 41
+[16-Apr-2014 01:08:43] PHP Notice:  Undefined variable: ret in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 41
+[16-Apr-2014 01:08:43] PHP Notice:  Undefined variable: ret in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 41
+[16-Apr-2014 01:08:49] PHP Notice:  Undefined variable: ret in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 41
+[16-Apr-2014 01:08:49] PHP Notice:  Undefined variable: ret in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 41
+[16-Apr-2014 01:08:49] PHP Notice:  Undefined variable: ret in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 41
+[16-Apr-2014 01:08:49] PHP Notice:  Undefined variable: ret in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 41
+[16-Apr-2014 01:08:49] PHP Notice:  Undefined variable: ret in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 41
+[16-Apr-2014 01:08:49] PHP Notice:  Undefined variable: ret in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 41
+[16-Apr-2014 01:08:49] PHP Notice:  Undefined variable: ret in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 41
+[16-Apr-2014 01:08:51] PHP Notice:  Undefined variable: ret in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 41
+[16-Apr-2014 01:08:51] PHP Notice:  Undefined variable: ret in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 41
+[16-Apr-2014 01:08:51] PHP Notice:  Undefined variable: ret in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 41
+[16-Apr-2014 01:08:51] PHP Notice:  Undefined variable: ret in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 41
+[16-Apr-2014 01:08:51] PHP Notice:  Undefined variable: ret in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 41
+[16-Apr-2014 01:08:51] PHP Notice:  Undefined variable: ret in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 41
+[16-Apr-2014 01:08:51] PHP Notice:  Undefined variable: ret in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 41
+[16-Apr-2014 01:12:27] PHP Fatal error:  Call to undefined method File::LinesAsArray() in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 62
+[16-Apr-2014 02:41:09] PHP Warning:  Wrong parameter count for stristr() in /home/oanglede/public_html/dev/simplesite/utilities.php on line 36
+[16-Apr-2014 02:41:09] PHP Warning:  Wrong parameter count for stristr() in /home/oanglede/public_html/dev/simplesite/utilities.php on line 36
+[16-Apr-2014 02:41:09] PHP Warning:  Wrong parameter count for stristr() in /home/oanglede/public_html/dev/simplesite/utilities.php on line 36
+[16-Apr-2014 02:41:09] PHP Warning:  Wrong parameter count for stristr() in /home/oanglede/public_html/dev/simplesite/utilities.php on line 36
+[16-Apr-2014 02:41:09] PHP Warning:  Wrong parameter count for stristr() in /home/oanglede/public_html/dev/simplesite/utilities.php on line 36
+[16-Apr-2014 02:41:09] PHP Warning:  Wrong parameter count for stristr() in /home/oanglede/public_html/dev/simplesite/utilities.php on line 36
+[16-Apr-2014 02:41:09] PHP Warning:  Wrong parameter count for stristr() in /home/oanglede/public_html/dev/simplesite/utilities.php on line 36
+[16-Apr-2014 02:41:09] PHP Warning:  fopen() expects at least 2 parameters, 1 given in /home/oanglede/public_html/dev/simplesite/utilities.php on line 43
+[16-Apr-2014 02:41:09] PHP Warning:  fwrite(): supplied argument is not a valid stream resource in /home/oanglede/public_html/dev/simplesite/utilities.php on line 44
+[16-Apr-2014 02:41:09] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/oanglede/public_html/dev/simplesite/utilities.php on line 45
+[16-Apr-2014 02:48:55] PHP Fatal error:  Undefined class constant 'LINE_CHECK_USERNAME' in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 63
+[16-Apr-2014 03:15:51] PHP Fatal error:  Access type for interface method Callback::callback() must be omitted in /home/oanglede/public_html/dev/simplesite/utilities.php on line 134
+[16-Apr-2014 03:16:17] PHP Fatal error:  Access type for interface method Callback::callback() must be omitted in /home/oanglede/public_html/dev/simplesite/utilities.php on line 134
+[16-Apr-2014 03:16:19] PHP Fatal error:  Access type for interface method Callback::callback() must be omitted in /home/oanglede/public_html/dev/simplesite/utilities.php on line 134
+[16-Apr-2014 03:16:20] PHP Fatal error:  Access type for interface method Callback::callback() must be omitted in /home/oanglede/public_html/dev/simplesite/utilities.php on line 134
+[16-Apr-2014 03:16:20] PHP Fatal error:  Access type for interface method Callback::callback() must be omitted in /home/oanglede/public_html/dev/simplesite/utilities.php on line 134
+[16-Apr-2014 03:16:21] PHP Fatal error:  Access type for interface method Callback::callback() must be omitted in /home/oanglede/public_html/dev/simplesite/utilities.php on line 134
+[16-Apr-2014 03:16:22] PHP Fatal error:  Access type for interface method Callback::callback() must be omitted in /home/oanglede/public_html/dev/simplesite/utilities.php on line 134
+[16-Apr-2014 03:16:23] PHP Fatal error:  Access type for interface method Callback::callback() must be omitted in /home/oanglede/public_html/dev/simplesite/utilities.php on line 134
+[16-Apr-2014 03:16:28] PHP Notice:  Undefined variable: needle in /home/oanglede/public_html/dev/simplesite/utilities.php on line 42
+[16-Apr-2014 03:16:28] PHP Notice:  Undefined variable: needle in /home/oanglede/public_html/dev/simplesite/utilities.php on line 42
+[16-Apr-2014 03:16:28] PHP Notice:  Undefined variable: needle in /home/oanglede/public_html/dev/simplesite/utilities.php on line 42
+[16-Apr-2014 03:16:28] PHP Notice:  Undefined variable: needle in /home/oanglede/public_html/dev/simplesite/utilities.php on line 42
+[16-Apr-2014 03:16:28] PHP Notice:  Undefined variable: needle in /home/oanglede/public_html/dev/simplesite/utilities.php on line 42
+[16-Apr-2014 03:16:28] PHP Notice:  Undefined variable: needle in /home/oanglede/public_html/dev/simplesite/utilities.php on line 42
+[16-Apr-2014 03:16:28] PHP Notice:  Undefined variable: needle in /home/oanglede/public_html/dev/simplesite/utilities.php on line 42
+[16-Apr-2014 03:16:28] PHP Warning:  fopen() expects at least 2 parameters, 1 given in /home/oanglede/public_html/dev/simplesite/utilities.php on line 51
+[16-Apr-2014 03:16:28] PHP Warning:  fwrite(): supplied argument is not a valid stream resource in /home/oanglede/public_html/dev/simplesite/utilities.php on line 52
+[16-Apr-2014 03:16:28] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/oanglede/public_html/dev/simplesite/utilities.php on line 53
+[16-Apr-2014 03:18:32] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 39
+[16-Apr-2014 03:18:32] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 40
+[16-Apr-2014 03:18:32] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 41
+[16-Apr-2014 03:18:32] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 39
+[16-Apr-2014 03:18:32] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 40
+[16-Apr-2014 03:18:32] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 41
+[16-Apr-2014 03:18:32] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 39
+[16-Apr-2014 03:18:32] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 40
+[16-Apr-2014 03:18:32] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 41
+[16-Apr-2014 03:18:32] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 39
+[16-Apr-2014 03:18:32] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 40
+[16-Apr-2014 03:18:32] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 41
+[16-Apr-2014 03:18:32] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 39
+[16-Apr-2014 03:18:32] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 40
+[16-Apr-2014 03:18:32] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 41
+[16-Apr-2014 03:18:32] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 39
+[16-Apr-2014 03:18:32] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 40
+[16-Apr-2014 03:18:32] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 41
+[16-Apr-2014 03:18:32] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 39
+[16-Apr-2014 03:18:32] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 40
+[16-Apr-2014 03:18:32] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 41
+[16-Apr-2014 03:18:32] PHP Warning:  fopen() expects at least 2 parameters, 1 given in /home/oanglede/public_html/dev/simplesite/utilities.php on line 51
+[16-Apr-2014 03:18:32] PHP Warning:  fwrite(): supplied argument is not a valid stream resource in /home/oanglede/public_html/dev/simplesite/utilities.php on line 52
+[16-Apr-2014 03:18:32] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/oanglede/public_html/dev/simplesite/utilities.php on line 53
+[16-Apr-2014 03:19:00] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 39
+[16-Apr-2014 03:19:00] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 40
+[16-Apr-2014 03:19:00] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 41
+[16-Apr-2014 03:19:00] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 39
+[16-Apr-2014 03:19:00] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 40
+[16-Apr-2014 03:19:00] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 41
+[16-Apr-2014 03:19:00] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 39
+[16-Apr-2014 03:19:00] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 40
+[16-Apr-2014 03:19:00] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 41
+[16-Apr-2014 03:19:00] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 39
+[16-Apr-2014 03:19:00] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 40
+[16-Apr-2014 03:19:00] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 41
+[16-Apr-2014 03:19:00] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 39
+[16-Apr-2014 03:19:00] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 40
+[16-Apr-2014 03:19:00] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 41
+[16-Apr-2014 03:19:00] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 39
+[16-Apr-2014 03:19:00] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 40
+[16-Apr-2014 03:19:00] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 41
+[16-Apr-2014 03:19:00] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 39
+[16-Apr-2014 03:19:00] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 40
+[16-Apr-2014 03:19:00] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 41
+[16-Apr-2014 03:19:00] PHP Warning:  fopen() expects at least 2 parameters, 1 given in /home/oanglede/public_html/dev/simplesite/utilities.php on line 51
+[16-Apr-2014 03:19:00] PHP Warning:  fwrite(): supplied argument is not a valid stream resource in /home/oanglede/public_html/dev/simplesite/utilities.php on line 52
+[16-Apr-2014 03:19:00] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/oanglede/public_html/dev/simplesite/utilities.php on line 53
+[16-Apr-2014 03:19:01] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 39
+[16-Apr-2014 03:19:01] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 40
+[16-Apr-2014 03:19:01] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 41
+[16-Apr-2014 03:19:01] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 39
+[16-Apr-2014 03:19:01] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 40
+[16-Apr-2014 03:19:01] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 41
+[16-Apr-2014 03:19:01] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 39
+[16-Apr-2014 03:19:01] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 40
+[16-Apr-2014 03:19:01] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 41
+[16-Apr-2014 03:19:01] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 39
+[16-Apr-2014 03:19:01] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 40
+[16-Apr-2014 03:19:01] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 41
+[16-Apr-2014 03:19:01] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 39
+[16-Apr-2014 03:19:01] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 40
+[16-Apr-2014 03:19:01] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 41
+[16-Apr-2014 03:19:01] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 39
+[16-Apr-2014 03:19:01] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 40
+[16-Apr-2014 03:19:01] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 41
+[16-Apr-2014 03:19:01] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 39
+[16-Apr-2014 03:19:01] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 40
+[16-Apr-2014 03:19:01] PHP Notice:  Array to string conversion in /home/oanglede/public_html/dev/simplesite/uac/UAC.php on line 41
+[16-Apr-2014 03:19:01] PHP Warning:  fopen() expects at least 2 parameters, 1 given in /home/oanglede/public_html/dev/simplesite/utilities.php on line 51
+[16-Apr-2014 03:19:01] PHP Warning:  fwrite(): supplied argument is not a valid stream resource in /home/oanglede/public_html/dev/simplesite/utilities.php on line 52
+[16-Apr-2014 03:19:01] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/oanglede/public_html/dev/simplesite/utilities.php on line 53
+[16-Apr-2014 03:19:16] PHP Warning:  fopen() expects at least 2 parameters, 1 given in /home/oanglede/public_html/dev/simplesite/utilities.php on line 51
+[16-Apr-2014 03:19:16] PHP Warning:  fwrite(): supplied argument is not a valid stream resource in /home/oanglede/public_html/dev/simplesite/utilities.php on line 52
+[16-Apr-2014 03:19:16] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/oanglede/public_html/dev/simplesite/utilities.php on line 53
